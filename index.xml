@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Minkyung</title>
+    <link>https://minkyung.github.io</link>
+    <atom:link href="https://minkyung.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Human Resource / Learning / Development / Technology
+</description>
+    <image>
+      <title>Minkyung</title>
+      <url>https://minkyung.github.io/img/logo_favicon.png</url>
+      <link>https://minkyung.github.io</link>
+    </image>
+    <generator>Radix</generator>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Hello</title>
+      <dc:creator>Minkyung Lee</dc:creator>
+      <link>https://minkyung.github.io/posts/2020-03-01-hello</link>
+      <description>A short description of the post.</description>
+      <guid>https://minkyung.github.io/posts/2020-03-01-hello</guid>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blog Start</title>
+      <dc:creator>Chungil Chae</dc:creator>
+      <link>https://minkyung.github.io/posts/2019-12-19-starting</link>
+      <description>A short description of the post.</description>
+      <guid>https://minkyung.github.io/posts/2019-12-19-starting</guid>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
